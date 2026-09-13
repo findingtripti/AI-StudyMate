@@ -3,3 +3,16 @@ venv/
 .env
 __pycache__/
 *.pyc
+
+# Vector database (auto-generated, don't push to git)
+vectorstore/
+
+# Uploaded PDFs (user data, don't push)
+data/uploaded_pdfs/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
