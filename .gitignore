@@ -9,6 +9,7 @@ vectorstore/
 
 # Uploaded PDFs (user data, don't push)
 data/uploaded_pdfs/
+*.pdf
 
 # VS Code settings
 .vscode/
